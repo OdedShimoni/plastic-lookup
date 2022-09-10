@@ -29,7 +29,7 @@ fn main() {
                                 ElasticStore::new()
                             );
                         println!(
-                            "New store '{}' is now here.",
+                            "New store '{}' was added successfuly.",
                             store_name
                         );
                     },
@@ -69,7 +69,7 @@ fn main() {
                         }
                         } else {
                             println!("0");
-                            println!("Store name {} not found.", store_name);
+                            println!("Store name {} wasn't found.", store_name);
                             continue;
                         }
                     }
