@@ -19,9 +19,9 @@ Run the executable through your app or directly.
 
 ### Actions
 ```bash
-store add {store_name} # Creates store
-word add {store_name} {word} {data} # Adds word
-store lookup {store_name} {word} # Retrieves word
+store add {store_name} # Creates a store
+word add {store_name} {word} {data} # Adds a word
+store lookup {store_name} {word} # Retrieves a word
 
 store ls # Lists all stores and data
 ```
