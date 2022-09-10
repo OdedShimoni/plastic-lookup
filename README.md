@@ -1,5 +1,5 @@
 
-# Elastic Lookup
+# Plastic Lookup
 
 Ultra fast, in-memory db to look for a word in a word list and data related to it.
 
