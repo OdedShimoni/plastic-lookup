@@ -42,4 +42,5 @@ If exists
 
 Contributions are always welcome!
 
-The next feature is going to be a CLI client for easier communication.
+* The next feature is going to be a CLI client for easier communication.
+* Tests will be amazing
